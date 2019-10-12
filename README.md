@@ -1,4 +1,4 @@
-# spending_tracker_app
+# Spending Tracker App
 
 A new Flutter project.
 
